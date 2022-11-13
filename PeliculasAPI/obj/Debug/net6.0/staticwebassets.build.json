@@ -1,11 +1,54 @@
 {
   "Version": 1,
-  "Hash": "rAE2a66vr5441zM3VEifvr70y8sGVq4BKD05EE0OxZo=",
+  "Hash": "g10sSOKlO9t7ig7kgRuzIjZePg0ZWa1NyMeTk+tks20=",
   "Source": "PeliculasAPI",
   "BasePath": "_content/PeliculasAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "PeliculasAPI\\wwwroot",
+      "Source": "PeliculasAPI",
+      "ContentRoot": "D:\\Proyectos\\PeliculasAPI\\PeliculasAPI\\wwwroot\\",
+      "BasePath": "_content/PeliculasAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Proyectos\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\72c8ae4a-0b6f-4203-860c-70cd3ffd1723.jpg",
+      "SourceId": "PeliculasAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\PeliculasAPI\\PeliculasAPI\\wwwroot\\",
+      "BasePath": "_content/PeliculasAPI",
+      "RelativePath": "actores/72c8ae4a-0b6f-4203-860c-70cd3ffd1723.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\actores\\72c8ae4a-0b6f-4203-860c-70cd3ffd1723.jpg"
+    },
+    {
+      "Identity": "D:\\Proyectos\\PeliculasAPI\\PeliculasAPI\\wwwroot\\actores\\a84d197c-a138-4a4b-a0da-bbee33587e6b.jpg",
+      "SourceId": "PeliculasAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Proyectos\\PeliculasAPI\\PeliculasAPI\\wwwroot\\",
+      "BasePath": "_content/PeliculasAPI",
+      "RelativePath": "actores/a84d197c-a138-4a4b-a0da-bbee33587e6b.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\actores\\a84d197c-a138-4a4b-a0da-bbee33587e6b.jpg"
+    }
+  ]
 }
